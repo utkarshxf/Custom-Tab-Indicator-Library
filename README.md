@@ -1,4 +1,5 @@
 # Custom-Tab-Indicator-Library
+This Library provide custom pagerTabIndicatorOffset for compose.foundation.pager for smooth sync of Tab Indicator with Material 3 TabRow.<br />
 To get a Git project into your build:<br />
 Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
